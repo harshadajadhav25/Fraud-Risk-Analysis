@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Excel temp + big excel
+~$*.xlsx
+excel/*.xlsx
+
+# Power BI (big)
+powerbi/*.pbix
+
+# Datasets (big)
+data/raw/*.csv
+data/processed/*.csv
